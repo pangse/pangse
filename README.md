@@ -37,8 +37,9 @@
   <img src="https://img.shields.io/badge/SAP BTP-61DAFB?style=flat-square&logo=React&logoColor=black"/>  
 </p>
 <p>
-  <img src="https://img.shields.io/badge/SAPUI5-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/CAP-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAP-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FioriLaunchpad-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAPUI5-0095D5?style=flat-square&logo=SAPUI5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CAP-3178C6?style=flat-square&logo=CAP&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NODE-007396?style=flat-square&logo=NODE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAP-007396?style=flat-square&logo=RAP&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FIORI-FA7343?style=flat-square&logo=FIORI&logoColor=white"/>
 </p>
