@@ -6,8 +6,19 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>sap fiori full stack developer & consultant </b> skilled in SAPUI5, CAP, RAP, ODATA, Fiori Launchpad...🚀<br/>
-  
-  I have experience 8 years of SAP Fiori Developer & Consultant,<br/>
+
+  ## SAP FIORI/UI5 8 year experience
+- Implementing SAPUI5 applications complying with MVC Architecture.
+- Fiori launchpad Implementation. 
+- Manage Fiori applications in the S/4 HANA solution.
+- SAP User experience (UX), and SAP Cloud Platform.
+- SAP BTP 
+- SAP FIORI roles setup, FIORI Launchpad groups, role mapping.
+- SAP FIORI Elements App & CDS VIEW(CUBE).
+- (Multi Dimension Report, List Report, and Object Page ( BOPF ), Analytical List Report., Overview Pages).
+- Gateway, ODATA Control.
+- Extend Standard Fiori App – both UI & OData
+- SAPUI5, CDS-VIEW SAP formal lecture <br/>
   Currently working as a SAP FIORI consultant. We are carrying out RAP, CAP and CI/CD work using SAP BTP in parallel..<br/>
 <hr/>
 
@@ -44,20 +55,26 @@
   <img src="https://img.shields.io/badge/CAP-3178C6?style=flat-square&logo=CAP&logoColor=white"/>
   <img src="https://img.shields.io/badge/NODE-007396?style=flat-square&logo=NODE&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAP-007396?style=flat-square&logo=RAP&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FIORI-FA7343?style=flat-square&logo=FIORI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FIORI-FA7343?style=flat-square&logo=FIORI&logoColor=white"/>  
 </p>
+
+
+
+
+
+<!--### 💪Other Languages -->
+
 <!--
 ### 💪 Neo GitHub stats 
 <p>
   [![Neo GitHub stats](https://github-readme-stats.vercel.app/api?username=pangse)](https://github.com/pangse/github-readme-stats)
 </p>
 -->
-
-### 💪Giuhun Uses Languages 
-<p>
-  
+<!--
+### 💪Github Uses Languages 
+<p>  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pangse&layout=compact)
 </p>
-
+-->
 
 
