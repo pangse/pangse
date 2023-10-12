@@ -9,7 +9,10 @@
   
   I have experience 8 years of SAP Fiori Developer & Consultant,<br/>
   Currently working as a SAP FIORI consultant. We are carrying out RAP, CAP and CI/CD work using SAP BTP in parallel..<br/>
-  
+<hr/>
+
+  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=0080FF&text=Full&nbsp;Stack&nbsp;SAP&nbsp;Fiori&height=150&fontSize=60&desc=Developer%20and%20Consultant&descAlignY=75&descAlign=60)  
+
 # Core competencies
 
 - S/4 hana Fiori overall environment settings (Setup and Config)
@@ -30,7 +33,7 @@
 </p>
 
 
-### 💪 Skills
+### 💪 SAP Skills
 #### Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/SAP FIORI-61DAFB?style=flat-square&logo=Quarkus&logoColor=white"/>
@@ -43,3 +46,18 @@
   <img src="https://img.shields.io/badge/RAP-007396?style=flat-square&logo=RAP&logoColor=white"/>
   <img src="https://img.shields.io/badge/FIORI-FA7343?style=flat-square&logo=FIORI&logoColor=white"/>
 </p>
+<!--
+### 💪 Neo GitHub stats 
+<p>
+  [![Neo GitHub stats](https://github-readme-stats.vercel.app/api?username=pangse)](https://github.com/pangse/github-readme-stats)
+</p>
+-->
+
+### 💪Giuhun Uses Languages 
+<p>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pangse&layout=compact)
+</p>
+
+
+
