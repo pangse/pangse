@@ -21,7 +21,7 @@
 - SAP User experience (UX), and SAP Cloud Platform
 - SAP FIORI roles setup, FIORI Launchpad groups, role mapping
 - SAP FIORI Elements App & CDS VIEW(CUBE)
-- (Multi Dimension Report, List Report, and Object Page ( BOPF ), Analytical List Report., Overview Pages).
+- RAP, (Multi Dimension Report, List Report, and Object Page ( BOPF ), Analytical List Report., Overview Pages).
 - Gateway, ODATA Control.
 - Extend Standard Fiori App – both UI & OData
 - SAPUI5, CDS-VIEW SAP formal lecture <br/>
