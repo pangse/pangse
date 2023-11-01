@@ -13,7 +13,7 @@
 <p>
   
 【 Core Competencies 】
-
+<br/>
 ■ SAP Fiori Consultancy
 • Internal and external support for SAP S/4HANA project and operations
 • SAP Fiori configuration system optimization
@@ -27,7 +27,7 @@
 • Integration with SAP Fiori and other third-party applications
 • SAP Fiori security and performance optimization
 • Maintenance and support of existing applications
-
+<br/>
 ■ SAP Fiori Administration
 • Implementation of standard applications
 - Standard SAP FIORI Application implementation
@@ -36,7 +36,7 @@
 
 • Configuration of SAP Fiori System
 - SAP Fiori system configuration
-
+<br/>
 ■ Fiori Application Development
 • Service activation
 • Launchpad configuration
@@ -44,25 +44,25 @@
 • Definition of certification
 • Trusted RFC connection
 • HTTP/HTTPS configuration
-
+<br/>
 ■ Fiori Application Development
 • Front-end Development
 - Application development using SAP Fiori Elements
 - SAPUI5, CAP(Node, JAVA), RAP
 
-
+<br/>
 • Back-end Development
 - Fiori application development using Odata/ABAP
 - Fiori application development using CDS (Core Data Services)/ABAP
 
 • Fiori Application Extension
 - Development of SAP Standard Fiori App extension
-
+<br/>
 ■ SAP Business Technology Platform (BTP)
 • SAP BTP Sloution Architect
 • SAP BTP-based development settings (ADT, BAS)
 • SAP BTP DevOps configuration (CI/CD, Cloud Transport Managment, Alert Notifications)
-
+<br/>
 ■ Others
 • CDS-VIEW lecture, SAPUI5 lecture
 • JAVA, C#, .Net development experience and expertise
@@ -70,9 +70,10 @@
 • Experience with multiple languages, including BSP, ASP, PHP, JSP, and FLEX
 
 
-
+<br/>
 
 【 experience 】
+
 ■ SAP FIORI 8 years
 
 ※ Project performance history
@@ -86,26 +87,26 @@
 - Yanolja S/4 HANA conversion
 - CJ Logistics S/4 HANA conversion
 - Woongjin S/4 HANA conversion
-
+<br/>
 ■ JAVA/JSP 4 years
 - Spring Framework, Servlet, Apache, WebLogic
 ※ PROJECT
 Sales management, human resources management, report solution, FTA solution
-
+<br/>
 ■ C#/ASP.NET 8 years
 - Travel reservation site, shopping mall, broadcast recording-transmission cue sheet application, judge memo management application, etc.
- 
+ <br/>
 ※ PROJECT
 Supreme Court case memo management, Vico travel reservation, shopping mall and other business sites
-
+<br/>
 ■ ASP, PHP / 4 years
 - Multiple homepages, shopping malls and web games (Kiuja)
 ※ PROJECT
 Other websites such as Dong-A Pharmaceutical, Haitai, Easy Shop, etc.
-
+<br/>
 ■ Database
 - Oracle 8 years, MySql 3 years, Maria DB 1 year, MS-SQL 3 years, Sybase 1 year
-
+<br/>
 ■ Tool
 - SVN, Git, Maven, Gradle, Jira, Jenkins
 
