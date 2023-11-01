@@ -89,31 +89,39 @@
 - Woongjin S/4 HANA conversion
 <br/>
 ■ JAVA/JSP 4 years
+<br/>
 - Spring Framework, Servlet, Apache, WebLogic
+<br/>
 ※ PROJECT
 Sales management, human resources management, report solution, FTA solution
 <br/>
 ■ C#/ASP.NET 8 years
+<br/>
 - Travel reservation site, shopping mall, broadcast recording-transmission cue sheet application, judge memo management application, etc.
  <br/>
 ※ PROJECT
 Supreme Court case memo management, Vico travel reservation, shopping mall and other business sites
 <br/>
 ■ ASP, PHP / 4 years
+<br/>
 - Multiple homepages, shopping malls and web games (Kiuja)
 ※ PROJECT
 Other websites such as Dong-A Pharmaceutical, Haitai, Easy Shop, etc.
 <br/>
 ■ Database
+<br/>
 - Oracle 8 years, MySql 3 years, Maria DB 1 year, MS-SQL 3 years, Sybase 1 year
 <br/>
 ■ Tool
+<br/>
 - SVN, Git, Maven, Gradle, Jira, Jenkins
 
 【 SAPUI5 Community Operation 】
+<br/>
 https://cafe.naver.com/sapux
 
 【 Github address 】
+<br/>
 https://github.com/navercafeSFC
 - Sapui5 design (ux planning), development
 - CDS-VIEW lecture, SAPUI5 lecture
