@@ -12,69 +12,101 @@
 
 <p>
   
-【 Core Competencies 】
-<br/>
-■ SAP Fiori Consultancy
-• Internal and external support for SAP S/4HANA project and operations
+# Core Competencies
+
+## ■ SAP Fiori Consultancy
+
+• Internal and external support for SAP S/4HANA project and operations</ui>
+
 • SAP Fiori configuration system optimization
+
 • SAP Fiori user training
+
 • Customized development of SAP Onpremise system and Cloud system
+
 • SAP Fiori project output work
+
 • SAP Fiori roles and permissions
+
 • Conversion of SAP GUI screens and ABAP/Web Dynpro applications to Fiori applications.
+
 • SAP Fiori Launchpad Management
+
 • Configure and deploy SAP Fiori applications.
+
 • Integration with SAP Fiori and other third-party applications
+
 • SAP Fiori security and performance optimization
+
 • Maintenance and support of existing applications
 <br/>
-■ SAP Fiori Administration
-• Implementation of standard applications
+<br/>
+## ■ SAP Fiori Administration
+
+### • Implementation of standard applications
+
 - Standard SAP FIORI Application implementation
+
 - Create Fiori and backend roles
+
 - Assign Fiori roles to users
 
-• Configuration of SAP Fiori System
+### • Configuration of SAP Fiori System
+
 - SAP Fiori system configuration
-<br/>
-■ Fiori Application Development
+
+## ■ Fiori Application Development
+
 • Service activation
+
 • Launchpad configuration
+
 • SAP FIORI Search Settings
+
 • Definition of certification
+
 • Trusted RFC connection
+
 • HTTP/HTTPS configuration
-<br/>
-■ Fiori Application Development
-• Front-end Development
+
+
+## ■ Fiori Application Development
+### • Front-end Development
+
 - Application development using SAP Fiori Elements
+
 - SAPUI5, CAP(Node, JAVA), RAP
 
-<br/>
-• Back-end Development
+## • Back-end Development
+
 - Fiori application development using Odata/ABAP
+  
 - Fiori application development using CDS (Core Data Services)/ABAP
 
-• Fiori Application Extension
+### • Fiori Application Extension
+
 - Development of SAP Standard Fiori App extension
-<br/>
-■ SAP Business Technology Platform (BTP)
+
+## ■ SAP Business Technology Platform (BTP)
 • SAP BTP Sloution Architect
+
 • SAP BTP-based development settings (ADT, BAS)
+
 • SAP BTP DevOps configuration (CI/CD, Cloud Transport Managment, Alert Notifications)
 <br/>
-■ Others
+## ■ Others
 • CDS-VIEW lecture, SAPUI5 lecture
+
 • JAVA, C#, .Net development experience and expertise
+
 • RDBMS (Oracle, MS-SQL, MY-SQL, Sybase) design and tuning
+
 • Experience with multiple languages, including BSP, ASP, PHP, JSP, and FLEX
 
 
-<br/>
+# 【 Experience 】
 
-【 experience 】
-
-■ SAP FIORI 8 years
+### ■ SAP FIORI 8 years
 
 ※ Project performance history
 - Yesco S/4 HANA conversion
@@ -87,49 +119,63 @@
 - Yanolja S/4 HANA conversion
 - CJ Logistics S/4 HANA conversion
 - Woongjin S/4 HANA conversion
-<br/>
-■ JAVA/JSP 4 years
-<br/>
+
+### ■ JAVA/JSP 4 years
 - Spring Framework, Servlet, Apache, WebLogic
+
+※ Project 
+- Sales management
+- human resources management
+- report solution, 
+- FTA solution
+
+
+### ■ C#/ASP.NET 8 years
+- Travel reservation site
+- shopping mall
+- broadcast recording-transmission cue sheet application
+- judge memo management application
+
+※ Project 
+- Supreme Court case memo management
+- Bico travel reservation
+- shopping mall and other business sites
+
+### ■ ASP, PHP / 4 years
+- Multiple homepages
+- Shopping malls
+- Web games (Kiuja)
+
+※ Project 
+- Other websites such as Dong-A Pharmaceutical, 
+- Haitai -
+- Easy Shop
+
+
+### ■ Database
+- Oracle 8 years 
+- MySql 3 years 
+- Maria DB 1 year 
+- MS-SQL 3 years 
+- Sybase 1 year
 <br/>
-※ PROJECT
-Sales management, human resources management, report solution, FTA solution
-<br/>
-■ C#/ASP.NET 8 years
-<br/>
-- Travel reservation site, shopping mall, broadcast recording-transmission cue sheet application, judge memo management application, etc.
- <br/>
-※ PROJECT
-Supreme Court case memo management, Vico travel reservation, shopping mall and other business sites
-<br/>
-■ ASP, PHP / 4 years
-<br/>
-- Multiple homepages, shopping malls and web games (Kiuja)
-※ PROJECT
-Other websites such as Dong-A Pharmaceutical, Haitai, Easy Shop, etc.
-<br/>
-■ Database
-<br/>
-- Oracle 8 years, MySql 3 years, Maria DB 1 year, MS-SQL 3 years, Sybase 1 year
-<br/>
-■ Tool
+## ■ Tool
 <br/>
 - SVN, Git, Maven, Gradle, Jira, Jenkins
 
-【 SAPUI5 Community Operation 】
+# 【 SAPUI5 Community Operation 】
 <br/>
 https://cafe.naver.com/sapux
 
-【 Github address 】
-<br/>
+# 【 Github address 】
 https://github.com/navercafeSFC
+
 - Sapui5 design (ux planning), development
 - CDS-VIEW lecture, SAPUI5 lecture
 - JAVA, C#, .Net development experience and expertise
 - RDBMS (Oracle, MS-SQL, MY-SQL, Sybase) design and tuning
 - Experience with multiple languages such as BSP, ASP, PHP, JSP, FLEX, etc.
 </p>
-
 
 ### 💪 SAP Skills
 #### Platforms & Languages
